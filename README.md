@@ -6,4 +6,4 @@ The first step is making a Java plugin with the files that are on the OutNet/Jav
 But you have the full code in the folder "Download".
 After that, we have to "Export" the code to the plugin folder of your minecraft server as 'OutNet.jar'
 
-(photo)[!https://github.com/masonrapa/OutNet/blob/master/pictures/pic1.PNG?raw=true]
+![photo](https://github.com/masonrapa/OutNet/blob/master/pictures/pic1.PNG?raw=true)
